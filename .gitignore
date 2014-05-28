@@ -26,3 +26,7 @@ Makefile*
 # QtCreator
 
 *.autosave
+
+*.app
+*.app/
+*.app/*
